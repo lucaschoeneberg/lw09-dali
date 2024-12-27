@@ -1,0 +1,21 @@
+LW09Dali                KEYWORD1
+LEDWarrior              KEYWORD1
+LEDWarriorConstants     KEYWORD1
+DALICommand             KEYWORD1
+DALISceneCommand        KEYWORD1
+
+sendCommand             KEYWORD2
+readStatus              KEYWORD2
+readData                KEYWORD2
+readQuery               KEYWORD2
+setDALIAddress          KEYWORD2
+waitForReady            KEYWORD2
+setLampLevel            KEYWORD2
+configureSwitchInput    KEYWORD2
+sendDALICommand         KEYWORD2
+
+REG_STATUS              LITERAL1
+REG_COMMAND             LITERAL1
+REG_CONFIG              LITERAL1
+STATUS_BUSY             LITERAL1
+DALI_BROADCAST          LITERAL1
