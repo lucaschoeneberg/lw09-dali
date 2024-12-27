@@ -1,4 +1,4 @@
-#include "LW09_Dali.h"
+#include "LW09-Dali.h"
 #include <Wire.h>
 
 LW09Dali::LW09Dali(const uint8_t i2cAddress) : _i2cAddress(i2cAddress) {}
