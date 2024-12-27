@@ -4,7 +4,7 @@ This library provides an interface for managing DALI-compatible lighting systems
 
 ```cpp
 #include <Wire.h>
-#include "LW09_Dali.h"
+#include <LW09-Dali.h>
 
 LW09Dali daliModule(0x29);
 
