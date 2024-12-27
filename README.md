@@ -14,7 +14,7 @@ void setup() {
   daliModule.setLampLevel(1, 128);
 }
 
-void loop() {[LW09_Dali.h](src/LW09_Dali.h)
+void loop() {
   // Main application code.
 }
 ```
