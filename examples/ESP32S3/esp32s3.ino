@@ -3,7 +3,7 @@
  */
 #include <Arduino.h>
 #include <Wire.h>
-#include <LW09-Dali.h>
+#include <LW09Dali.h>
 
 // device constants
 #define I2C_ADDRESS 0x20
