@@ -1,6 +1,6 @@
 {
   "name": "LW09-Dali",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This library provides an interface for managing DALI-compatible lighting systems through an I²C bus. LED-Warrior 09",
   "keywords": [
     "DALI",
