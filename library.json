@@ -1,0 +1,27 @@
+{
+  "name": "LW09-Dali",
+  "version": "1.0.2",
+  "description": "This library provides an interface for managing DALI-compatible lighting systems through an I²C bus. LED-Warrior 09",
+  "keywords": [
+    "DALI",
+    "I2C",
+    "LED",
+    "Lighting",
+    "Control"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucaschoeneberg/lw09-dali"
+  },
+  "authors": [
+    {
+      "name": "Luca Schöneberg",
+      "email": "team@artandtech.space",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lucaschoeneberg/lw09-dali",
+  "frameworks": "*",
+  "platforms": "*"
+}
